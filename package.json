@@ -1,0 +1,11 @@
+{
+  "name": "ticketscout",
+  "version": "1.0.0",
+  "description": "AI-powered concert ticket finder",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 

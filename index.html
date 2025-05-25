@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TicketScout - Find Concert Deals</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script id="omnidimension-web-widget" async src="https://backend.omnidim.io/web_widget.js?secret_key=127e6726cda49fca3891608659966f2d"></script>
+</head>
+<body>
+    <div class="stars"></div>
+    
+    <header>
+        <div class="header-content">
+            <h1><i class="fas fa-star"></i> TicketScout</h1>
+            <p>Your Personal Ticket Discovery Assistant</p>
+        </div>
+    </header>
+
+    <main>
+        <!-- Email Subscription Section (Always visible) -->
+        <section class="email-subscription" id="emailSection">
+            <div class="section-icon">
+                <i class="fas fa-envelope"></i>
+            </div>
+            <h2>Welcome to TicketScout</h2>
+            <p>Please subscribe to access our ticket discovery features</p>
+            <form class="email-form" id="emailForm">
+                <div class="input-group">
+                    <input type="email" id="userEmail" placeholder="Enter your email" required>
+                    <div class="input-tooltip">We'll send you exclusive deals and updates</div>
+                </div>
+                <button type="submit" id="subscribeEmail">Get Started</button>
+            </form>
+            <div class="benefits">
+                <div class="benefit-item">
+                    <i class="fas fa-ticket-alt"></i>
+                    <span>Exclusive Deals</span>
+                </div>
+                <div class="benefit-item">
+                    <i class="fas fa-bell"></i>
+                    <span>Price Alerts</span>
+                </div>
+                <div class="benefit-item">
+                    <i class="fas fa-star"></i>
+                    <span>Early Access</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Features (Hidden until email is provided) -->
+        <div id="mainFeatures" class="hidden">
+            <section class="voice-agent-section">
+                <div class="section-icon">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <h2>Voice Assistant</h2>
+                <p>Let our AI guide you to find the best ticket deals. Just speak your preferences!</p>
+                <div class="voice-controls">
+                    <button id="startVoice" class="voice-button">
+                        <i class="fas fa-microphone"></i> Start Voice Assistant
+                    </button>
+                    <div class="status">
+                        <div class="status-dot"></div>
+                        <span id="voiceStatus">Ready to help</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="search-container">
+                <div class="section-icon">
+                    <i class="fas fa-search"></i>
+                </div>
+                <h2>Find Your Perfect Tickets</h2>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search for concerts...">
+                    <button id="searchButton">Search</button>
+                </div>
+                <div class="filter-container">
+                    <select id="priceFilter">
+                        <option value="">Price Range</option>
+                        <option value="0-50">$0 - $50</option>
+                        <option value="51-100">$51 - $100</option>
+                        <option value="101-200">$101 - $200</option>
+                        <option value="201+">$201+</option>
+                    </select>
+                    <select id="dateFilter">
+                        <option value="">Date Range</option>
+                        <option value="today">Today</option>
+                        <option value="week">This Week</option>
+                        <option value="month">This Month</option>
+                        <option value="year">This Year</option>
+                    </select>
+                    <select id="venueFilter">
+                        <option value="">Venue Type</option>
+                        <option value="arena">Arena</option>
+                        <option value="stadium">Stadium</option>
+                        <option value="theater">Theater</option>
+                        <option value="club">Club</option>
+                    </select>
+                </div>
+            </section>
+
+            <div id="dealsContainer" class="deals-container">
+                <!-- Deals will be dynamically inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <div id="notification" class="notification">
+        <i class="fas fa-bell"></i>
+        <span class="notification-text"></span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

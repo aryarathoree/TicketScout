@@ -1,76 +1,136 @@
-# TicketScout - AI-Powered Deal Finder
+# TicketScout 🎫
 
-TicketScout is a modern web application that helps users find the best deals on high-demand items like concert tickets, sneakers, and sports events. The application features a beautiful celestial-themed interface and integrates with voice recognition for hands-free searching.
+A sophisticated ticket discovery platform combining voice assistant technology and AI chatbot for finding the best concert ticket deals.
 
-## Features
+## 🌟 Key Features
 
-- 🌟 Celestial-themed modern UI
-- 🎤 Voice search capability
-- 🔍 Advanced filtering and sorting options
-- 📱 Responsive design for all devices
-- 🔔 Real-time notifications
-- 💬 Integration with OmniDimension voice agent
+### Voice & Chat Assistant
+- Voice recognition for ticket searches
+- Interactive AI chatbot
+- Real-time status updates
+- Multi-turn conversations
 
-## Technologies Used
+### Ticket Discovery
+- Smart search with filters
+- Price and date sorting
+- Sample dataset for testing
+- Mock negotiations
+- Deal analytics
 
-- HTML5
-- CSS3 (with CSS Variables)
-- JavaScript (ES6+)
-- Web Speech API for voice recognition
-- Font Awesome for icons
-- Google Fonts (Space Grotesk)
+### User Experience
+- Professional dark theme
+- Responsive design
+- Email subscription system
+- Real-time notifications
 
-## Setup Instructions
+## 🛠️ Tech Stack
 
-1. Clone the repository:
+### Frontend
+- HTML5 & CSS3 
+- JavaScript
+- Local storage
+
+### Backend
+- Python 3.8+ 
+- RESTful API integration
+- JSON storage
+- State management
+
+### APIs & Services
+- OmniDimension (Voice & Chat)
+- Ticket Services
+- Email notifications
+- Price negotiation
+
+## 🚀 Quick Start
+
+1. Clone and install:
 ```bash
-git clone https://github.com/yourusername/ticketscout.git
-cd ticketscout
+git clone https://github.com/yourusername/TicketScout.git
+cd TicketScout
+pip install -r requirements.txt
 ```
 
-2. Open `index.html` in your web browser or use a local server:
+2. Configure environment:
 ```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx serve
+cp .env.example .env
+# Edit .env with your API keys
 ```
 
-3. Visit `http://localhost:8000` in your browser
+3. Run the application:
+```bash
+python manage_agents.py
+```
 
-## Voice Search Integration
+## 💻 Usage
 
-The application uses the Web Speech API for voice recognition. To use voice search:
+### Voice & Chat
+1. Click microphone icon or use chat
+2. Speak/type your request
+3. Follow prompts for deals
 
-1. Click the "Start Voice Search" button
-2. Allow microphone access when prompted
-3. Speak your search query
-4. The application will automatically search for matching deals
+### Search
+1. Enter search terms
+2. Apply filters
+3. Sort by price/date
+4. Compare offers
 
-## OmniDimension Integration
+### Email Features
+1. Subscribe with email
+2. Get deal alerts
+3. Access exclusive offers
 
-To integrate with OmniDimension:
+## 🔧 Configuration
 
-1. Sign up for an OmniDimension account
-2. Get your API credentials
-3. Update the `script.js` file with your API key
-4. Uncomment and configure the OmniDimension API calls in the `selectDeal` function
+### Agent Settings
+- Voice sensitivity
+- Notification preferences
+- Chatbot responses
+- Search filters
 
-## Contributing
+### UI Options
+- Dark theme
+- Animations
+- Notifications
+- Layout preferences
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## 📊 State Management
 
-## License
+### Agent States
+- Active/Inactive status
+- Conversation history
+- Error tracking
+- User preferences
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### User States
+- Subscription status
+- Search preferences
+- Deal history
+- Favorite deals
 
-## Acknowledgments
+## 🔒 Security
 
-- Background animations inspired by [Stars and Twinkling](https://codepen.io/saransh/pen/BKJun)
-- Icons provided by [Font Awesome](https://fontawesome.com/)
-- Fonts from [Google Fonts](https://fonts.google.com/) 
+- Secure API handling
+- Environment protection
+- Input validation
+- Error logging
+- Rate limiting
+
+## 🤝 Contributing
+
+1. Fork repository
+2. Create feature branch
+3. Commit changes
+4. Create Pull Request
+
+## 📝 License
+
+MIT License - see [LICENSE](LICENSE) file
+
+## 🙏 Acknowledgments
+
+- OmniDimension
+- Contributors
+- Open source community
+
+

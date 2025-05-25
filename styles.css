@@ -1,0 +1,959 @@
+/* Modern CSS Reset */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Custom Properties */
+:root {
+    --primary-color: #6C63FF;      /* Modern Purple */
+    --secondary-color: #4A45B1;    /* Deep Purple */
+    --accent-color: #00D4FF;       /* Bright Cyan */
+    --success-color: #00E5A0;      /* Mint Green */
+    --error-color: #FF4B6E;        /* Soft Red */
+    --warning-color: #FFD700;      /* Gold */
+    --background-dark: #0A0B1E;    /* Deep Space Blue */
+    --background-light: #14152B;   /* Lighter Space Blue */
+    --text-primary: #FFFFFF;       /* Pure White */
+    --text-secondary: #B4B4D9;     /* Soft Purple White */
+    --card-bg: rgba(20, 21, 43, 0.8);
+    --card-border: rgba(108, 99, 255, 0.2);
+    --shadow-color: rgba(108, 99, 255, 0.15);
+    --gradient-start: #6C63FF;
+    --gradient-end: #00D4FF;
+    --transition-speed: 0.3s;
+}
+
+/* Base Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-dark);
+    color: var(--text-primary);
+    line-height: 1.6;
+    min-height: 100vh;
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Enhanced Starry Background */
+.stars {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--background-dark);
+    z-index: -2;
+}
+
+.stars::before,
+.stars::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(1px 1px at 25px 5px, #fff, rgba(0,0,0,0)),
+        radial-gradient(1px 1px at 50px 25px, #fff, rgba(0,0,0,0)),
+        radial-gradient(1px 1px at 125px 20px, #fff, rgba(0,0,0,0)),
+        radial-gradient(1.5px 1.5px at 50px 75px, #fff, rgba(0,0,0,0)),
+        radial-gradient(2px 2px at 15px 125px, #fff, rgba(0,0,0,0)),
+        radial-gradient(2.5px 2.5px at 110px 80px, #fff, rgba(0,0,0,0));
+    background-repeat: repeat;
+    background-size: 200px 200px;
+    animation: twinkle 4s ease-in-out infinite;
+    opacity: 0.3;
+}
+
+.stars::after {
+    background-position: 100px 100px;
+    animation-delay: 2s;
+}
+
+@keyframes twinkle {
+    0%, 100% { opacity: 0.3; transform: scale(1); }
+    50% { opacity: 0.8; transform: scale(1.2); }
+}
+
+/* Enhanced Header Styles */
+header {
+    background: linear-gradient(to right, 
+        rgba(108, 99, 255, 0.1), 
+        rgba(0, 212, 255, 0.1)
+    );
+    padding: 3rem;
+    text-align: center;
+    border-bottom: 1px solid var(--card-border);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    animation: headerFadeIn 1s ease-out;
+}
+
+@keyframes headerFadeIn {
+    from { 
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.header-content h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 20px var(--shadow-color);
+    letter-spacing: 1px;
+    animation: titleGlow 3s infinite;
+}
+
+@keyframes titleGlow {
+    0%, 100% { text-shadow: 0 0 20px var(--shadow-color); }
+    50% { text-shadow: 0 0 30px var(--shadow-color), 0 0 40px var(--primary-color); }
+}
+
+.header-content h1 i {
+    font-size: 2.5rem;
+    color: var(--warning-color);
+    text-shadow: 0 0 10px var(--warning-color);
+}
+
+.header-content p {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    letter-spacing: 0.5px;
+}
+
+/* Main Content */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Enhanced Section Styles */
+.voice-agent-section,
+.search-container,
+.email-subscription {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 2.5rem;
+    margin-bottom: 2rem;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    transition: all var(--transition-speed);
+    animation: sectionSlideIn 0.5s ease-out;
+}
+
+@keyframes sectionSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.voice-agent-section:hover,
+.search-container:hover,
+.email-subscription:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Section Icons */
+.section-icon {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    transition: transform var(--transition-speed);
+}
+
+.section-icon:hover {
+    transform: scale(1.1);
+}
+
+.section-icon i {
+    font-size: 2rem;
+    color: white;
+}
+
+/* Voice Controls */
+.voice-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+/* Enhanced Button Styles */
+.voice-button,
+#searchButton,
+#subscribeEmail {
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    color: white;
+    border: none;
+    padding: 1.2rem 2.5rem;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+    box-shadow: 0 4px 15px var(--shadow-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.voice-button::before,
+#searchButton::before,
+#subscribeEmail::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    transition: 0.5s;
+}
+
+.voice-button:hover::before,
+#searchButton:hover::before,
+#subscribeEmail:hover::before {
+    left: 100%;
+}
+
+.voice-button:hover,
+#searchButton:hover,
+#subscribeEmail:hover {
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 8px 25px var(--shadow-color);
+}
+
+/* Enhanced Input Styles */
+#searchInput,
+#userEmail,
+select {
+    padding: 1.2rem;
+    border: 1px solid var(--card-border);
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+    backdrop-filter: blur(10px);
+}
+
+#searchInput:focus,
+#userEmail:focus,
+select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 20px var(--shadow-color);
+    background: rgba(255, 255, 255, 0.1);
+    transform: scale(1.02);
+}
+
+/* Filter Container */
+.filter-container {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+select {
+    padding: 0.8rem 1.5rem;
+    border: 1px solid var(--card-border);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all var(--transition-speed);
+}
+
+select:hover {
+    border-color: var(--primary-color);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* Email Subscription */
+.email-subscription {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 3rem;
+    margin: 2rem auto;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+}
+
+.email-subscription h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.email-subscription p {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.input-tooltip {
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--card-bg);
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    opacity: 0;
+    transition: opacity var(--transition-speed);
+    pointer-events: none;
+    white-space: nowrap;
+}
+
+.input-group:hover .input-tooltip {
+    opacity: 1;
+}
+
+.email-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#userEmail {
+    width: 100%;
+    padding: 1.2rem;
+    border: 2px solid var(--card-border);
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+}
+
+#userEmail:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+#userEmail::placeholder {
+    color: var(--text-secondary);
+    opacity: 0.7;
+}
+
+#subscribeEmail {
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    color: white;
+    border: none;
+    padding: 1.2rem 2.5rem;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+    box-shadow: 0 4px 15px var(--shadow-color);
+    font-size: 1.1rem;
+}
+
+#subscribeEmail:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px var(--shadow-color);
+}
+
+/* Benefits Section */
+.benefits {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.benefit-item {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    color: var(--text-secondary);
+    transition: all var(--transition-speed);
+}
+
+.benefit-item:hover {
+    color: var(--text-primary);
+    transform: translateY(-2px);
+}
+
+.benefit-item i {
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
+
+/* Hidden Class */
+.hidden {
+    display: none;
+}
+
+/* Main Features Animation */
+#mainFeatures {
+    animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Deals Container */
+.deals-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+/* Enhanced Deal Cards */
+.deal-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 2rem;
+    transition: all var(--transition-speed);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    animation: cardFadeIn 0.5s ease-out;
+}
+
+@keyframes cardFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.deal-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+.deal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.deal-header h3 {
+    color: var(--accent-color);
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.rating {
+    color: var(--warning-color);
+}
+
+.deal-details {
+    color: var(--text-secondary);
+}
+
+.deal-details p {
+    margin: 0.5rem 0;
+}
+
+.select-deal {
+    width: 100%;
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    color: white;
+    border: none;
+    padding: 1.2rem;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 1.5rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+}
+
+.select-deal:hover {
+    transform: translateY(-2px);
+}
+
+/* Enhanced Notification */
+.notification {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 20px;
+    padding: 1.2rem 2.5rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transform: translateY(150%);
+    transition: transform var(--transition-speed);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    animation: notificationSlideIn 0.5s ease-out forwards;
+}
+
+@keyframes notificationSlideIn {
+    from {
+        transform: translateY(150%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Enhanced Status Indicator */
+.status {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.status-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--success-color);
+    box-shadow: 0 0 15px var(--success-color);
+    animation: pulse 2s infinite;
+    position: relative;
+}
+
+.status-dot::after {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    border-radius: 50%;
+    background: var(--success-color);
+    opacity: 0.3;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.5); opacity: 0.5; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        padding: 2rem;
+    }
+
+    .header-content h1 {
+        font-size: 2.5rem;
+    }
+
+    .search-box,
+    .email-form {
+        flex-direction: column;
+    }
+
+    .filter-container {
+        flex-direction: column;
+    }
+
+    .deals-container {
+        grid-template-columns: 1fr;
+    }
+
+    .notification {
+        left: 1rem;
+        right: 1rem;
+        bottom: 1rem;
+    }
+
+    .email-subscription {
+        padding: 2rem;
+        margin: 1rem;
+    }
+
+    .email-subscription h2 {
+        font-size: 2rem;
+    }
+
+    .benefits {
+        gap: 1.5rem;
+    }
+
+    .benefit-item {
+        font-size: 0.9rem;
+    }
+}
+
+/* Enhanced Loading Animation */
+.loading {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    animation: loadingPulse 1.5s infinite;
+}
+
+@keyframes loadingPulse {
+    0% { transform: scale(1); opacity: 0.7; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.7; }
+}
+
+/* Floating Animation */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+
+.deal-card {
+    animation: float 6s ease-in-out infinite;
+}
+
+/* Glowing Effect */
+@keyframes glow {
+    0% { box-shadow: 0 0 5px var(--shadow-color); }
+    50% { box-shadow: 0 0 20px var(--shadow-color); }
+    100% { box-shadow: 0 0 5px var(--shadow-color); }
+}
+
+.voice-button, #searchButton, #subscribeEmail {
+    animation: glow 2s infinite;
+}
+
+/* Stars Background */
+.twinkling {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/twinkling.png') repeat;
+    z-index: -1;
+    animation: move-twink-back 200s linear infinite;
+}
+
+@keyframes move-twink-back {
+    from {background-position: 0 0;}
+    to {background-position: -10000px 5000px;}
+}
+
+/* Header Content */
+.header-content {
+    position: relative;
+    z-index: 1;
+}
+
+/* Enhanced Card Effects */
+.deal-card {
+    position: relative;
+    overflow: hidden;
+}
+
+.deal-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        rgba(123, 104, 238, 0.1),
+        transparent
+    );
+    transform: rotate(45deg);
+    animation: shine 3s infinite;
+}
+
+@keyframes shine {
+    0% { transform: translateX(-100%) rotate(45deg); }
+    100% { transform: translateX(100%) rotate(45deg); }
+}
+
+/* Enhanced Button Effects */
+.voice-button, #searchButton, #subscribeEmail {
+    position: relative;
+    overflow: hidden;
+}
+
+.voice-button::after, #searchButton::after, #subscribeEmail::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    transform: rotate(45deg);
+    animation: button-shine 3s infinite;
+}
+
+@keyframes button-shine {
+    0% { transform: translateX(-100%) rotate(45deg); }
+    100% { transform: translateX(100%) rotate(45deg); }
+}
+
+/* Enhanced Input Fields */
+#searchInput, #userEmail, select {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--card-border);
+    transition: all var(--transition-speed);
+}
+
+#searchInput:focus, #userEmail:focus, select:focus {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+}
+
+/* Enhanced Status Dot */
+.status-dot {
+    position: relative;
+}
+
+.status-dot::after {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    border-radius: 50%;
+    background: var(--success-color);
+    opacity: 0.3;
+    animation: pulse 2s infinite;
+}
+
+/* Active Voice Button */
+.voice-button.active {
+    background: linear-gradient(45deg, var(--accent-color), var(--primary-color));
+    animation: pulse 1.5s infinite;
+}
+
+/* Deal Card Enhancements */
+.deal-card {
+    position: relative;
+    overflow: hidden;
+}
+
+.deal-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        rgba(108, 99, 255, 0.1),
+        transparent
+    );
+    transform: translateX(-100%);
+    transition: transform 0.6s;
+}
+
+.deal-card:hover::before {
+    transform: translateX(100%);
+}
+
+.deal-header {
+    margin-bottom: 1.5rem;
+}
+
+.deal-header h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--warning-color);
+}
+
+.rating i {
+    font-size: 1.1rem;
+}
+
+.deal-details {
+    margin-bottom: 1.5rem;
+}
+
+.deal-details p {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin-bottom: 0.8rem;
+    color: var(--text-secondary);
+}
+
+.deal-details i {
+    color: var(--primary-color);
+    font-size: 1.1rem;
+}
+
+.select-deal {
+    width: 100%;
+    background: linear-gradient(45deg, var(--gradient-start), var(--gradient-end));
+    color: white;
+    border: none;
+    padding: 1.2rem;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all var(--transition-speed);
+    box-shadow: 0 4px 15px var(--shadow-color);
+}
+
+.select-deal:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px var(--shadow-color);
+}
+
+/* Enhanced Form States */
+input:focus,
+select:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 15px var(--shadow-color);
+}
+
+button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none !important;
+}
+
+/* Notification Types */
+.notification.success {
+    border-left: 4px solid var(--success-color);
+}
+
+.notification.error {
+    border-left: 4px solid var(--error-color);
+}
+
+.notification.warning {
+    border-left: 4px solid var(--warning-color);
+}
+
+/* Enhanced Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 5px;
+    transition: all var(--transition-speed);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary-color);
+    box-shadow: 0 0 10px var(--shadow-color);
+}
+
+/* Enhanced Selection */
+::selection {
+    background: var(--primary-color);
+    color: white;
+    text-shadow: 0 0 5px var(--shadow-color);
+}
+
+/* Focus Outline */
+:focus-visible {
+    outline: 2px solid var(--primary-color);
+    outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+    .stars,
+    .voice-button,
+    .email-subscription,
+    .notification {
+        display: none !important;
+    }
+
+    body {
+        background: white;
+        color: black;
+    }
+
+    .deal-card {
+        break-inside: avoid;
+        border: 1px solid #ddd;
+        box-shadow: none;
+    }
+} 
