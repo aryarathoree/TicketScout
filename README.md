@@ -1,7 +1,7 @@
 # TicketScout 🎫
 
 A sophisticated ticket discovery platform combining voice assistant technology and AI chatbot for finding the best concert ticket deals.
-
+Website : https://musical-platypus-fa36e7.netlify.app/
 ## 🌟 Key Features
 
 ### Voice & Chat Assistant
