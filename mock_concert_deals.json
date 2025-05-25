@@ -1,0 +1,3733 @@
+[
+    {
+      "id": "1",
+      "title": "Doja Cat - Live Concert",
+      "artist": "Doja Cat",
+      "venue": "Wembley Stadium",
+      "date": "2024-10-29",
+      "price": 186.13,
+      "category": "hip-hop",
+      "availableSeats": 118,
+      "description": "Experience Doja Cat's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 305.22,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 350.38,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 249.35,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 418.46,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 264.99,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-08-25",
+      "price": 282.0,
+      "category": "pop",
+      "availableSeats": 57,
+      "description": "Experience Lady Gaga's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 393.58,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 341.24,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 204.32,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 247.86,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 258.98,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "Madison Square Garden",
+      "date": "2024-08-12",
+      "price": 397.19,
+      "category": "rock",
+      "availableSeats": 112,
+      "description": "Experience Metallica's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 439.55,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 291.92,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 387.76,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 331.99,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "Madison Square Garden",
+      "date": "2024-08-25",
+      "price": 255.99,
+      "category": "pop",
+      "availableSeats": 51,
+      "description": "Experience Lady Gaga's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 291.19,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 210.45,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 418.93,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Dua Lipa - Live Concert",
+      "artist": "Dua Lipa",
+      "venue": "Rose Bowl",
+      "date": "2024-08-16",
+      "price": 340.06,
+      "category": "pop",
+      "availableSeats": 175,
+      "description": "Experience Dua Lipa's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 334.44,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 232.34,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Adele - Live Concert",
+      "artist": "Adele",
+      "venue": "TD Garden",
+      "date": "2024-09-22",
+      "price": 210.4,
+      "category": "pop",
+      "availableSeats": 194,
+      "description": "Experience Adele's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 318.91,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 295.94,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 447.41,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 329.98,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "BTS - Live Concert",
+      "artist": "BTS",
+      "venue": "Barclays Center",
+      "date": "2024-11-06",
+      "price": 176.52,
+      "category": "k-pop",
+      "availableSeats": 200,
+      "description": "Experience BTS's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 421.35,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 253.7,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 239.61,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 313.06,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Dua Lipa - Live Concert",
+      "artist": "Dua Lipa",
+      "venue": "Barclays Center",
+      "date": "2024-08-30",
+      "price": 223.9,
+      "category": "pop",
+      "availableSeats": 77,
+      "description": "Experience Dua Lipa's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 341.28,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 386.13,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 437.22,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 401.07,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Post Malone - Live Concert",
+      "artist": "Post Malone",
+      "venue": "The O2 Arena",
+      "date": "2024-12-10",
+      "price": 155.05,
+      "category": "hip-hop",
+      "availableSeats": 52,
+      "description": "Experience Post Malone's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.9,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 301.45,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 316.97,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 430.5,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 331.12,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "The O2 Arena",
+      "date": "2024-12-12",
+      "price": 388.19,
+      "category": "rock",
+      "availableSeats": 197,
+      "description": "Experience Coldplay's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 356.57,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 378.39,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 355.1,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 281.4,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Wembley Stadium",
+      "date": "2024-12-21",
+      "price": 333.21,
+      "category": "pop",
+      "availableSeats": 67,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 333.0,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 448.62,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Barclays Center",
+      "date": "2024-06-29",
+      "price": 374.36,
+      "category": "hip-hop",
+      "availableSeats": 142,
+      "description": "Experience Drake's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 319.56,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 358.81,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "The Weeknd - Live Concert",
+      "artist": "The Weeknd",
+      "venue": "Barclays Center",
+      "date": "2024-08-16",
+      "price": 381.43,
+      "category": "r&b",
+      "availableSeats": 164,
+      "description": "Experience The Weeknd's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 334.12,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 292.84,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 371.39,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Hollywood Bowl",
+      "date": "2024-06-10",
+      "price": 201.27,
+      "category": "hip-hop",
+      "availableSeats": 195,
+      "description": "Experience Drake's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 386.02,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 301.05,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Lizzo - Live Concert",
+      "artist": "Lizzo",
+      "venue": "The O2 Arena",
+      "date": "2024-11-22",
+      "price": 372.91,
+      "category": "pop",
+      "availableSeats": 159,
+      "description": "Experience Lizzo's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 436.14,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 292.37,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "Hollywood Bowl",
+      "date": "2024-09-24",
+      "price": 235.84,
+      "category": "pop",
+      "availableSeats": 190,
+      "description": "Experience Billie Eilish's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "PrimeTickets",
+          "price": 259.06,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 342.09,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 358.25,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Lizzo - Live Concert",
+      "artist": "Lizzo",
+      "venue": "Rose Bowl",
+      "date": "2024-09-29",
+      "price": 233.18,
+      "category": "pop",
+      "availableSeats": 99,
+      "description": "Experience Lizzo's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 232.33,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 223.93,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 374.99,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 392.65,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "TD Garden",
+      "date": "2024-07-15",
+      "price": 320.78,
+      "category": "rock",
+      "availableSeats": 198,
+      "description": "Experience Coldplay's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 360.05,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 253.29,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Taylor Swift - Live Concert",
+      "artist": "Taylor Swift",
+      "venue": "Rose Bowl",
+      "date": "2024-09-14",
+      "price": 224.48,
+      "category": "pop",
+      "availableSeats": 150,
+      "description": "Experience Taylor Swift's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 277.89,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 251.21,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 230.35,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "The Weeknd - Live Concert",
+      "artist": "The Weeknd",
+      "venue": "Rose Bowl",
+      "date": "2024-12-17",
+      "price": 284.26,
+      "category": "r&b",
+      "availableSeats": 135,
+      "description": "Experience The Weeknd's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 424.96,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 373.63,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Hollywood Bowl",
+      "date": "2024-08-24",
+      "price": 236.91,
+      "category": "hip-hop",
+      "availableSeats": 171,
+      "description": "Experience Drake's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "PrimeTickets",
+          "price": 251.7,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 380.05,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 397.87,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 222.72,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Dua Lipa - Live Concert",
+      "artist": "Dua Lipa",
+      "venue": "The O2 Arena",
+      "date": "2024-08-03",
+      "price": 368.42,
+      "category": "pop",
+      "availableSeats": 143,
+      "description": "Experience Dua Lipa's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 218.87,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 283.31,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 235.19,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "TD Garden",
+      "date": "2024-08-19",
+      "price": 193.08,
+      "category": "pop",
+      "availableSeats": 125,
+      "description": "Experience Billie Eilish's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 255.23,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 202.24,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "TD Garden",
+      "date": "2024-09-26",
+      "price": 302.94,
+      "category": "r&b",
+      "availableSeats": 56,
+      "description": "Experience Khalid's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 259.52,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 252.79,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 202.72,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "TD Garden",
+      "date": "2024-11-23",
+      "price": 168.28,
+      "category": "hip-hop",
+      "availableSeats": 183,
+      "description": "Experience Drake's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 383.66,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 353.46,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 210.84,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "Hollywood Bowl",
+      "date": "2024-11-06",
+      "price": 301.26,
+      "category": "rock",
+      "availableSeats": 88,
+      "description": "Experience Coldplay's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "PrimeTickets",
+          "price": 286.32,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 367.6,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 285.02,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Bruno Mars - Live Concert",
+      "artist": "Bruno Mars",
+      "venue": "The O2 Arena",
+      "date": "2024-10-09",
+      "price": 346.62,
+      "category": "pop",
+      "availableSeats": 93,
+      "description": "Experience Bruno Mars's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 393.15,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 226.32,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 240.37,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Dua Lipa - Live Concert",
+      "artist": "Dua Lipa",
+      "venue": "The O2 Arena",
+      "date": "2024-12-08",
+      "price": 198.27,
+      "category": "pop",
+      "availableSeats": 78,
+      "description": "Experience Dua Lipa's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 353.42,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 384.57,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 215.22,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 331.34,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "BTS - Live Concert",
+      "artist": "BTS",
+      "venue": "Madison Square Garden",
+      "date": "2024-10-26",
+      "price": 250.14,
+      "category": "k-pop",
+      "availableSeats": 97,
+      "description": "Experience BTS's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 392.59,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 431.24,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 241.91,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "Madison Square Garden",
+      "date": "2024-12-10",
+      "price": 234.94,
+      "category": "pop",
+      "availableSeats": 126,
+      "description": "Experience Ed Sheeran's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 448.41,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 344.32,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 318.4,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 332.93,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 348.55,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "Madison Square Garden",
+      "date": "2024-12-17",
+      "price": 277.75,
+      "category": "pop",
+      "availableSeats": 184,
+      "description": "Experience Ed Sheeran's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "SeatHub",
+          "price": 313.34,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 299.7,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 285.84,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 407.64,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 239.04,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Rihanna - Live Concert",
+      "artist": "Rihanna",
+      "venue": "Staples Center",
+      "date": "2024-10-28",
+      "price": 381.06,
+      "category": "r&b",
+      "availableSeats": 59,
+      "description": "Experience Rihanna's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 291.68,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 218.65,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 230.55,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 402.81,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 226.27,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Doja Cat - Live Concert",
+      "artist": "Doja Cat",
+      "venue": "Rose Bowl",
+      "date": "2024-10-19",
+      "price": 199.19,
+      "category": "hip-hop",
+      "availableSeats": 132,
+      "description": "Experience Doja Cat's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 331.44,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 220.44,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 423.74,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Bruno Mars - Live Concert",
+      "artist": "Bruno Mars",
+      "venue": "TD Garden",
+      "date": "2024-09-01",
+      "price": 177.81,
+      "category": "pop",
+      "availableSeats": 52,
+      "description": "Experience Bruno Mars's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 345.61,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 274.18,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 376.2,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 201.71,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 425.0,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-10-28",
+      "price": 338.5,
+      "category": "rock",
+      "availableSeats": 194,
+      "description": "Experience Metallica's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 252.11,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 239.31,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 232.65,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Justin Bieber - Live Concert",
+      "artist": "Justin Bieber",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-11-20",
+      "price": 174.25,
+      "category": "pop",
+      "availableSeats": 98,
+      "description": "Experience Justin Bieber's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 270.98,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 206.91,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 285.19,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 376.51,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 242.31,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "Barclays Center",
+      "date": "2024-10-19",
+      "price": 288.78,
+      "category": "pop",
+      "availableSeats": 180,
+      "description": "Experience Ed Sheeran's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 202.04,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 355.78,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 428.83,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 352.29,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 378.05,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "TD Garden",
+      "date": "2024-09-14",
+      "price": 189.35,
+      "category": "rock",
+      "availableSeats": 182,
+      "description": "Experience Metallica's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.9,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 419.46,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 373.21,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Rihanna - Live Concert",
+      "artist": "Rihanna",
+      "venue": "Staples Center",
+      "date": "2024-07-14",
+      "price": 296.86,
+      "category": "r&b",
+      "availableSeats": 191,
+      "description": "Experience Rihanna's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 216.54,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 268.0,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 409.94,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 295.22,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 285.33,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "Staples Center",
+      "date": "2024-07-06",
+      "price": 310.53,
+      "category": "rock",
+      "availableSeats": 115,
+      "description": "Experience Coldplay's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 256.7,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 416.09,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "TD Garden",
+      "date": "2024-10-10",
+      "price": 287.18,
+      "category": "pop",
+      "availableSeats": 100,
+      "description": "Experience Billie Eilish's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.3,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 234.63,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 305.31,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 265.86,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 438.46,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Dua Lipa - Live Concert",
+      "artist": "Dua Lipa",
+      "venue": "Wembley Stadium",
+      "date": "2024-08-15",
+      "price": 273.72,
+      "category": "pop",
+      "availableSeats": 170,
+      "description": "Experience Dua Lipa's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "PrimeTickets",
+          "price": 431.25,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 242.1,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 232.46,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 410.86,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "TD Garden",
+      "date": "2024-08-13",
+      "price": 189.29,
+      "category": "r&b",
+      "availableSeats": 170,
+      "description": "Experience Khalid's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.3,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 252.62,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 374.52,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 230.44,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 382.58,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "The O2 Arena",
+      "date": "2024-07-24",
+      "price": 301.08,
+      "category": "pop",
+      "availableSeats": 146,
+      "description": "Experience Shawn Mendes's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 310.78,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 298.06,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 205.66,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 367.01,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "TD Garden",
+      "date": "2024-07-15",
+      "price": 380.06,
+      "category": "pop",
+      "availableSeats": 144,
+      "description": "Experience Shawn Mendes's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 277.47,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 350.42,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 212.59,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-07-20",
+      "price": 337.88,
+      "category": "pop",
+      "availableSeats": 73,
+      "description": "Experience Lady Gaga's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 421.4,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 409.01,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 435.88,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Taylor Swift - Live Concert",
+      "artist": "Taylor Swift",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-09-09",
+      "price": 320.69,
+      "category": "pop",
+      "availableSeats": 165,
+      "description": "Experience Taylor Swift's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 276.35,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 271.78,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 270.6,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 365.46,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 267.34,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Doja Cat - Live Concert",
+      "artist": "Doja Cat",
+      "venue": "Staples Center",
+      "date": "2024-08-12",
+      "price": 360.36,
+      "category": "hip-hop",
+      "availableSeats": 193,
+      "description": "Experience Doja Cat's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 200.57,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 238.25,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 328.03,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Doja Cat - Live Concert",
+      "artist": "Doja Cat",
+      "venue": "Madison Square Garden",
+      "date": "2024-10-27",
+      "price": 251.99,
+      "category": "hip-hop",
+      "availableSeats": 119,
+      "description": "Experience Doja Cat's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 435.72,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 291.31,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Rose Bowl",
+      "date": "2024-06-01",
+      "price": 282.34,
+      "category": "pop",
+      "availableSeats": 158,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 408.43,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 291.56,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 220.1,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 341.45,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 315.68,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Hollywood Bowl",
+      "date": "2024-06-16",
+      "price": 396.62,
+      "category": "hip-hop",
+      "availableSeats": 194,
+      "description": "Experience Drake's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 202.13,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 245.28,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "Olympic Stadium",
+      "date": "2024-08-29",
+      "price": 190.99,
+      "category": "r&b",
+      "availableSeats": 98,
+      "description": "Experience Khalid's unforgettable live concert at Olympic Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 213.33,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 404.36,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "TD Garden",
+      "date": "2024-08-19",
+      "price": 280.88,
+      "category": "pop",
+      "availableSeats": 123,
+      "description": "Experience Shawn Mendes's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 283.6,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 365.48,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 449.33,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "TD Garden",
+      "date": "2024-12-20",
+      "price": 366.72,
+      "category": "pop",
+      "availableSeats": 172,
+      "description": "Experience Ed Sheeran's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 231.87,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 350.0,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 213.7,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "TD Garden",
+      "date": "2024-08-24",
+      "price": 294.26,
+      "category": "pop",
+      "availableSeats": 80,
+      "description": "Experience Ed Sheeran's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.0,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 444.6,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 392.23,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 386.36,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 343.9,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-10-18",
+      "price": 229.28,
+      "category": "hip-hop",
+      "availableSeats": 150,
+      "description": "Experience Drake's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 317.87,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 213.97,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-09-30",
+      "price": 245.6,
+      "category": "pop",
+      "availableSeats": 180,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 436.55,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 368.8,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "Barclays Center",
+      "date": "2024-08-13",
+      "price": 228.12,
+      "category": "rock",
+      "availableSeats": 131,
+      "description": "Experience Metallica's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.9,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 442.6,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 298.23,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "The O2 Arena",
+      "date": "2024-12-21",
+      "price": 187.68,
+      "category": "pop",
+      "availableSeats": 146,
+      "description": "Experience Lady Gaga's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 307.59,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 336.95,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 422.13,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Taylor Swift - Live Concert",
+      "artist": "Taylor Swift",
+      "venue": "Rose Bowl",
+      "date": "2024-10-03",
+      "price": 216.17,
+      "category": "pop",
+      "availableSeats": 121,
+      "description": "Experience Taylor Swift's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.9,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 388.9,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 215.97,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 320.63,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "The O2 Arena",
+      "date": "2024-06-17",
+      "price": 165.87,
+      "category": "pop",
+      "availableSeats": 114,
+      "description": "Experience Lady Gaga's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 218.84,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 222.64,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 274.27,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 303.31,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Imagine Dragons - Live Concert",
+      "artist": "Imagine Dragons",
+      "venue": "Madison Square Garden",
+      "date": "2024-06-11",
+      "price": 222.2,
+      "category": "rock",
+      "availableSeats": 138,
+      "description": "Experience Imagine Dragons's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.9,
+      "offers": [
+        {
+          "seller_name": "PrimeTickets",
+          "price": 347.59,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 245.05,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 261.59,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 200.38,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "Barclays Center",
+      "date": "2024-07-04",
+      "price": 220.4,
+      "category": "pop",
+      "availableSeats": 61,
+      "description": "Experience Ed Sheeran's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 237.23,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 261.61,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "Madison Square Garden",
+      "date": "2024-08-03",
+      "price": 389.12,
+      "category": "r&b",
+      "availableSeats": 157,
+      "description": "Experience Khalid's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.0,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 417.23,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 325.6,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 408.71,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 296.48,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "Staples Center",
+      "date": "2024-11-12",
+      "price": 379.54,
+      "category": "rock",
+      "availableSeats": 75,
+      "description": "Experience Metallica's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 289.87,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 357.32,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 260.51,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 365.41,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "The O2 Arena",
+      "date": "2024-10-31",
+      "price": 197.96,
+      "category": "r&b",
+      "availableSeats": 164,
+      "description": "Experience Khalid's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 374.78,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 401.92,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "The O2 Arena",
+      "date": "2024-10-07",
+      "price": 256.98,
+      "category": "rock",
+      "availableSeats": 126,
+      "description": "Experience Coldplay's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 412.63,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 378.28,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 320.21,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "title": "Bruno Mars - Live Concert",
+      "artist": "Bruno Mars",
+      "venue": "The O2 Arena",
+      "date": "2024-10-17",
+      "price": 383.98,
+      "category": "pop",
+      "availableSeats": 192,
+      "description": "Experience Bruno Mars's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 247.25,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 275.62,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 416.9,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 301.59,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "title": "BTS - Live Concert",
+      "artist": "BTS",
+      "venue": "Staples Center",
+      "date": "2024-11-19",
+      "price": 335.79,
+      "category": "k-pop",
+      "availableSeats": 91,
+      "description": "Experience BTS's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 313.91,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 204.43,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 352.88,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Barclays Center",
+      "date": "2024-10-29",
+      "price": 303.89,
+      "category": "hip-hop",
+      "availableSeats": 198,
+      "description": "Experience Drake's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 256.37,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 274.53,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 338.26,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-11-21",
+      "price": 196.6,
+      "category": "pop",
+      "availableSeats": 76,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 412.78,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 387.55,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 412.46,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 297.76,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 353.54,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "Rose Bowl",
+      "date": "2024-09-20",
+      "price": 172.95,
+      "category": "rock",
+      "availableSeats": 82,
+      "description": "Experience Coldplay's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 436.03,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 230.65,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "Hollywood Bowl",
+      "date": "2024-11-30",
+      "price": 340.8,
+      "category": "pop",
+      "availableSeats": 78,
+      "description": "Experience Billie Eilish's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 225.73,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 304.28,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 305.15,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Doja Cat - Live Concert",
+      "artist": "Doja Cat",
+      "venue": "TD Garden",
+      "date": "2024-07-02",
+      "price": 368.2,
+      "category": "hip-hop",
+      "availableSeats": 146,
+      "description": "Experience Doja Cat's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.5,
+      "offers": [
+        {
+          "seller_name": "SeatHub",
+          "price": 413.95,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 441.05,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 385.86,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 286.92,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 384.61,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Metallica - Live Concert",
+      "artist": "Metallica",
+      "venue": "TD Garden",
+      "date": "2024-08-03",
+      "price": 350.32,
+      "category": "rock",
+      "availableSeats": 169,
+      "description": "Experience Metallica's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 207.83,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 351.33,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 313.53,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 303.91,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 320.1,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Khalid - Live Concert",
+      "artist": "Khalid",
+      "venue": "The O2 Arena",
+      "date": "2024-11-17",
+      "price": 206.38,
+      "category": "r&b",
+      "availableSeats": 87,
+      "description": "Experience Khalid's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 304.87,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 250.54,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "title": "The Weeknd - Live Concert",
+      "artist": "The Weeknd",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-06-13",
+      "price": 265.57,
+      "category": "r&b",
+      "availableSeats": 88,
+      "description": "Experience The Weeknd's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.0,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 399.41,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 273.0,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 281.35,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Justin Bieber - Live Concert",
+      "artist": "Justin Bieber",
+      "venue": "TD Garden",
+      "date": "2024-09-27",
+      "price": 348.48,
+      "category": "pop",
+      "availableSeats": 55,
+      "description": "Experience Justin Bieber's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 325.77,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 442.75,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 212.4,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 405.15,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 208.99,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Rihanna - Live Concert",
+      "artist": "Rihanna",
+      "venue": "Madison Square Garden",
+      "date": "2024-11-08",
+      "price": 225.51,
+      "category": "r&b",
+      "availableSeats": 100,
+      "description": "Experience Rihanna's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 232.38,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 233.96,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 352.7,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 266.03,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Post Malone - Live Concert",
+      "artist": "Post Malone",
+      "venue": "Wembley Stadium",
+      "date": "2024-11-22",
+      "price": 259.78,
+      "category": "hip-hop",
+      "availableSeats": 117,
+      "description": "Experience Post Malone's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 257.1,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 425.92,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Olympic Stadium",
+      "date": "2024-12-10",
+      "price": 184.57,
+      "category": "hip-hop",
+      "availableSeats": 93,
+      "description": "Experience Drake's unforgettable live concert at Olympic Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 214.2,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 442.2,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 400.62,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 291.93,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "Madison Square Garden",
+      "date": "2024-06-25",
+      "price": 314.61,
+      "category": "pop",
+      "availableSeats": 75,
+      "description": "Experience Lady Gaga's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 240.67,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 443.6,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 446.13,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 300.82,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 376.28,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "5% off with code SAVE5"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Wembley Stadium",
+      "date": "2024-07-10",
+      "price": 375.86,
+      "category": "hip-hop",
+      "availableSeats": 130,
+      "description": "Experience Drake's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.6,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 327.81,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 222.41,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 274.4,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 392.21,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 395.77,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "Free merchandise with tickets"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Rihanna - Live Concert",
+      "artist": "Rihanna",
+      "venue": "Wembley Stadium",
+      "date": "2024-08-24",
+      "price": 356.35,
+      "category": "r&b",
+      "availableSeats": 147,
+      "description": "Experience Rihanna's unforgettable live concert at Wembley Stadium. Don't miss out on this spectacular event.",
+      "rating": 4.0,
+      "offers": [
+        {
+          "seller_name": "SeatHub",
+          "price": 228.92,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 250.36,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 376.13,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "Hollywood Bowl",
+      "date": "2024-10-06",
+      "price": 358.34,
+      "category": "pop",
+      "availableSeats": 155,
+      "description": "Experience Billie Eilish's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 5.0,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 261.04,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 435.51,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Madison Square Garden",
+      "date": "2024-08-14",
+      "price": 208.36,
+      "category": "pop",
+      "availableSeats": 78,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 350.69,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 324.75,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Imagine Dragons - Live Concert",
+      "artist": "Imagine Dragons",
+      "venue": "Madison Square Garden",
+      "date": "2024-08-23",
+      "price": 356.33,
+      "category": "rock",
+      "availableSeats": 89,
+      "description": "Experience Imagine Dragons's unforgettable live concert at Madison Square Garden. Don't miss out on this spectacular event.",
+      "rating": 4.0,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 375.29,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 369.95,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 326.1,
+          "delivery_time": "2 days",
+          "availability": "In stock",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Justin Bieber - Live Concert",
+      "artist": "Justin Bieber",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-09-19",
+      "price": 190.25,
+      "category": "pop",
+      "availableSeats": 161,
+      "description": "Experience Justin Bieber's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "ConcertHub",
+          "price": 203.26,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 392.85,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 384.46,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Lady Gaga - Live Concert",
+      "artist": "Lady Gaga",
+      "venue": "TD Garden",
+      "date": "2024-11-13",
+      "price": 391.8,
+      "category": "pop",
+      "availableSeats": 189,
+      "description": "Experience Lady Gaga's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "TicketWorld",
+          "price": 306.31,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 237.63,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 434.1,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Bruno Mars - Live Concert",
+      "artist": "Bruno Mars",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-07-28",
+      "price": 289.05,
+      "category": "pop",
+      "availableSeats": 149,
+      "description": "Experience Bruno Mars's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 314.15,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 312.11,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 204.64,
+          "delivery_time": "1 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Staples Center",
+      "date": "2024-06-17",
+      "price": 243.95,
+      "category": "hip-hop",
+      "availableSeats": 114,
+      "description": "Experience Drake's unforgettable live concert at Staples Center. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "MusicTickets",
+          "price": 325.76,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 266.13,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 224.93,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 351.6,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Ed Sheeran - Live Concert",
+      "artist": "Ed Sheeran",
+      "venue": "The O2 Arena",
+      "date": "2024-11-21",
+      "price": 244.45,
+      "category": "pop",
+      "availableSeats": 171,
+      "description": "Experience Ed Sheeran's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "ExpressSeats",
+          "price": 334.54,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 279.09,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 205.66,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "2024-10-19",
+      "price": 306.24,
+      "category": "pop",
+      "availableSeats": 170,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Red Rocks Amphitheatre. Don't miss out on this spectacular event.",
+      "rating": 4.1,
+      "offers": [
+        {
+          "seller_name": "VIPSeats",
+          "price": 342.21,
+          "delivery_time": "5 days",
+          "availability": "Limited",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "VIPSeats",
+          "price": 295.98,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Post Malone - Live Concert",
+      "artist": "Post Malone",
+      "venue": "Hollywood Bowl",
+      "date": "2024-12-01",
+      "price": 214.74,
+      "category": "hip-hop",
+      "availableSeats": 110,
+      "description": "Experience Post Malone's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 337.5,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "5% off with code SAVE5"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 321.47,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "Barclays Center",
+      "date": "2024-11-10",
+      "price": 321.85,
+      "category": "hip-hop",
+      "availableSeats": 77,
+      "description": "Experience Drake's unforgettable live concert at Barclays Center. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 272.79,
+          "delivery_time": "4 days",
+          "availability": "Sold out",
+          "special_offers": "Priority seating included"
+        },
+        {
+          "seller_name": "ConcertHub",
+          "price": 248.95,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "FastTickets",
+          "price": 279.65,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 306.15,
+          "delivery_time": "1 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Coldplay - Live Concert",
+      "artist": "Coldplay",
+      "venue": "Rose Bowl",
+      "date": "2024-10-15",
+      "price": 318.27,
+      "category": "rock",
+      "availableSeats": 158,
+      "description": "Experience Coldplay's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.2,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 201.23,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "PrimeTickets",
+          "price": 263.87,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Merchandise pack included"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 401.29,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Shawn Mendes - Live Concert",
+      "artist": "Shawn Mendes",
+      "venue": "Rose Bowl",
+      "date": "2024-08-23",
+      "price": 287.57,
+      "category": "pop",
+      "availableSeats": 174,
+      "description": "Experience Shawn Mendes's unforgettable live concert at Rose Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.8,
+      "offers": [
+        {
+          "seller_name": "SeatMaster",
+          "price": 219.58,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "10% off early bird"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 217.38,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Buy 1 get 1 50% off"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Bruno Mars - Live Concert",
+      "artist": "Bruno Mars",
+      "venue": "Hollywood Bowl",
+      "date": "2024-08-16",
+      "price": 354.13,
+      "category": "pop",
+      "availableSeats": 184,
+      "description": "Experience Bruno Mars's unforgettable live concert at Hollywood Bowl. Don't miss out on this spectacular event.",
+      "rating": 4.3,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 427.66,
+          "delivery_time": "5 days",
+          "availability": "Sold out",
+          "special_offers": "Early access seating"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 271.38,
+          "delivery_time": "3 days",
+          "availability": "Sold out",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "TicketWorld",
+          "price": 250.22,
+          "delivery_time": "1 days",
+          "availability": "In stock",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "SeatMaster",
+          "price": 230.14,
+          "delivery_time": "4 days",
+          "availability": "In stock",
+          "special_offers": "Early access seating"
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Billie Eilish - Live Concert",
+      "artist": "Billie Eilish",
+      "venue": "TD Garden",
+      "date": "2024-06-30",
+      "price": 262.75,
+      "category": "pop",
+      "availableSeats": 145,
+      "description": "Experience Billie Eilish's unforgettable live concert at TD Garden. Don't miss out on this spectacular event.",
+      "rating": 4.4,
+      "offers": [
+        {
+          "seller_name": "KPopTickets",
+          "price": 379.28,
+          "delivery_time": "3 days",
+          "availability": "Limited",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 203.06,
+          "delivery_time": "4 days",
+          "availability": "Limited",
+          "special_offers": "Free merchandise with tickets"
+        },
+        {
+          "seller_name": "ExpressSeats",
+          "price": 341.92,
+          "delivery_time": "3 days",
+          "availability": "In stock",
+          "special_offers": "VIP upgrade available"
+        },
+        {
+          "seller_name": "SeatHub",
+          "price": 438.48,
+          "delivery_time": "5 days",
+          "availability": "In stock",
+          "special_offers": "Merchandise pack included"
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Drake - Live Concert",
+      "artist": "Drake",
+      "venue": "The O2 Arena",
+      "date": "2024-10-19",
+      "price": 273.87,
+      "category": "hip-hop",
+      "availableSeats": 58,
+      "description": "Experience Drake's unforgettable live concert at The O2 Arena. Don't miss out on this spectacular event.",
+      "rating": 4.7,
+      "offers": [
+        {
+          "seller_name": "FastTickets",
+          "price": 236.08,
+          "delivery_time": "2 days",
+          "availability": "Sold out",
+          "special_offers": "No service fees"
+        },
+        {
+          "seller_name": "MusicTickets",
+          "price": 236.77,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "Free delivery"
+        },
+        {
+          "seller_name": "KPopTickets",
+          "price": 302.72,
+          "delivery_time": "2 days",
+          "availability": "Limited",
+          "special_offers": "10% off early bird"
+        }
+      ]
+    }
+  ]
